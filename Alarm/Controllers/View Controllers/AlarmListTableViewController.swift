@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+//class declaration
 class AlarmListTableViewController: UITableViewController {
 
     override func viewDidLoad() {
